@@ -1,8 +1,8 @@
 <div align=center>
 
-  <h2> 배우기를 좋아하며 커뮤니케이션을 통해 <br> 팀원들과의 협업을 강화하는 신입 백엔드 개발자, 용수진 입니다.👋 </h2>
+  <h2> 배우기를 좋아하며 커뮤니케이션을 통해 <br> 팀원들과의 협업을 강화하는 신입 백엔드 개발자, 용수진 입니다. </h2>
 
-  <br><br>
+  <br>
   
   <h3> 🛠️ Teck Stack 🛠️ </h3>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=Instagram&logoColor=white&link=https://www.instagram.com/0_sujin0/"/>
   </a>
 
-  <br>
+  <br><br>
   
   <h3> 📊 My GitHub Status 📊 </h3>
   <p> 
