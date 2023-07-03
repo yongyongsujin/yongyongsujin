@@ -8,17 +8,19 @@
     팀원들과 협업할 줄 아는 신입 백엔드 개발자 입니다 :-)
   </h4>
 
-  <h2> 🛠️ Teck Stack 🛠️ </h2>
+  <h2> 🛠️ Tech Stack 🛠️ </h2>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white"/>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
+  <br> 
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black"/>&nbsp 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
   <br>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=23F7DF1E"/>&nbsp 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=Notion&logoColor=white"/> 
