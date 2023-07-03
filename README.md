@@ -28,6 +28,9 @@
   </a>&nbsp
   <a href="https://www.instagram.com/0_sujin0/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=Instagram&logoColor=white&link=https://www.instagram.com/0_sujin0/"/>
+  </a>&nbsp
+  <a href="mailto:jin970510@naver.com">
+    <img src="https://img.shields.io/badge/Mail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=jin9705100@naver.com"/>
   </a>
 
   <br>
