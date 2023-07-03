@@ -1,8 +1,9 @@
 <div align=center>
 
-  <h2> 배우기를 좋아하며 커뮤니케이션을 통해 <br> 팀원들과의 협업을 강화하는 신입 백엔드 개발자, 용수진 입니다. </h2>
-
-  <br>
+  <h1>Welcome, I'm Sujin!👋</h1>
+  <h3> 
+    배우기를 좋아하며 커뮤니케이션을 통해 <br> 팀원들과 협업할 줄 아는 신입 백엔드 개발자 입니다 :-)
+  </h3>
   
   <h3> 🛠️ Teck Stack 🛠️ </h3>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp
@@ -31,7 +32,7 @@
 
   <br>
   
-  <h3> 👩‍💻 My GitHub Status 👩‍💻 </h3>
+<!--  <h3> 👩‍💻 My GitHub Status 👩‍💻 </h3>
   <p> 
     <img src="https://github-readme-stats.vercel.app/api?username=yongyongsujin&theme=vue&show_icons=true"/>
   </p>
@@ -40,6 +41,6 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongyongsujin&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     </a>
   </p>
-  
+-->  
 
 </div>
