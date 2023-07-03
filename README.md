@@ -29,9 +29,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=Instagram&logoColor=white&link=https://www.instagram.com/0_sujin0/"/>
   </a>
 
-  <br><br>
+  <br>
   
-  <h3> 📊 My GitHub Status 📊 </h3>
+  <h3> 👩‍💻 My GitHub Status 👩‍💻 </h3>
   <p> 
     <img src="https://github-readme-stats.vercel.app/api?username=yongyongsujin&theme=vue&show_icons=true"/>
   </p>
