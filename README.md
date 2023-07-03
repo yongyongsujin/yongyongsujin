@@ -1,11 +1,12 @@
-<div align=center>
+<div align=left>
 
   <h1>Welcome, I'm Sujin!👋</h1>
-  <h3> 
-    배우기를 좋아하며 커뮤니케이션을 통해 <br> 팀원들과 협업할 줄 아는 신입 백엔드 개발자 입니다 :-)
-  </h3>
-  
-  <h3> 🛠️ Teck Stack 🛠️ </h3>
+  <h4> 
+    배우기를 좋아하며 커뮤니케이션을 통해 <br> 
+    팀원들과 협업할 줄 아는 신입 백엔드 개발자 입니다 :-)
+  </h4>
+
+  <h2> 🛠️ Teck Stack 🛠️ </h2>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white"/>&nbsp 
@@ -22,7 +23,7 @@
 
   <br>
 
-  <h3> 🪄 About Me 🪄 </h3>
+  <h2> 🪄 About Me 🪄 </h2>
   <a href="https://blog.naver.com/jin970510">
     <img src="https://img.shields.io/badge/blogger-2D8C3C?style=flat&logo=blogger&logoColor=white&link=https://blog.naver.com/jin970510"/>
   </a>&nbsp
@@ -33,17 +34,23 @@
     <img src="https://img.shields.io/badge/Mail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=jin9705100@naver.com"/>
   </a>
 
-  <br>
+  <br><br>
+
+  [![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin970510)](https://solved.ac/jin970510/)
   
 <!--  <h3> 👩‍💻 My GitHub Status 👩‍💻 </h3>
   <p> 
     <img src="https://github-readme-stats.vercel.app/api?username=yongyongsujin&theme=vue&show_icons=true"/>
   </p>
+
   <p>
     <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongyongsujin&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     </a>
   </p>
+  
+  
 -->  
 
 </div>
